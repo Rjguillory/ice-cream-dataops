@@ -1,0 +1,5 @@
+externalId: {{ uc_oee_ds_external_id }}
+name: overall_equipment_effectiveness_use_case
+writeProtected: false
+metadata:
+  origin: cognite-toolkit
